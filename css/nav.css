@@ -1,0 +1,32 @@
+/* Navigation bar */
+
+nav {
+  display: flex;
+  background-color: #ff6600;
+  align-items: center;
+  padding: 5px 20px;
+  border-radius: 3px 3px 0 0;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  padding: 15px;
+}
+
+.nav-link {
+  font-size: 0.85rem;
+  margin: 0 3px;
+  padding: 5px;
+}
+
+.nav-right {
+  margin-left: auto;
+  text-align: right;
+}
+
+.main-nav-links {
+  display: flex;
+  margin: 0 8px;
+  justify-content: center;
+  align-items: center;
+}
